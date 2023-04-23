@@ -1,6 +1,4 @@
-# Benford's_law
-
-# stock_price_notifier
+# Benford's Law
 
 ## Steps to run the code:
 
