@@ -47,6 +47,6 @@
 
 ![non_benford_data](https://raw.githubusercontent.com/rravii/Benford-s_law/master/images/4.JPG)
 
-- Result of benford_data.csv:
+- Result of non_benford_data.csv:
 
 ![result_non_benford_data](https://raw.githubusercontent.com/rravii/Benford-s_law/master/images/5.JPG)
