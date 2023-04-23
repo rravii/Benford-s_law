@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benford's Law Checker</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid black;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .form input {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Benford's Law Checker</h1>
+    <div class="form">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input id="csvfile" type="file" name="csvfile" accept=".csv" required>
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>
