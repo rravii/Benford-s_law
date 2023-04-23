@@ -27,6 +27,8 @@
   http://localhost:5050/benford
 ```
 
+### [Documentation](https://docs.google.com/document/d/1l5z2R83qziqy1e-Es5tS6jb-RXd4-fey/edit?usp=sharing&ouid=108044631561998143868&rtpof=true&sd=true)
+
 ## Output:
 
 - UI:
